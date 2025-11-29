@@ -97,9 +97,10 @@ git clone https://github.com/cse1060/Keithley_SMU.git
 - [Pratham Gupta](https://github.com/cse1060)
 - [Garima Upadhyay](https://github.com/GTG-hub)
 - [Amit Tiwari](https://github.com/Amit2004Tiwari)
-- Rishwanth Sai 
+- [Rishwanth Sai](https://github.com/Rishwanth-Sai)
 - Kalyan Sriram
 
 ### References
 - Keithley 2450 documentation - https://download.tek.com/manual/2450-900-01E_Aug_2019_User.pdf
 - [Levenberg Marquardt Algorithm](https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm) for Curve-fitting
+
